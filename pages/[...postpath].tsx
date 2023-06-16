@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://www.blogger.com/blog/post/edit/preview/1229024449812633474/3005067488586567584` + encodeURI(path as string)
+					`https://watch420x.000webhostapp.com/` + encodeURI(path as string)
 				}`,
 			},
 		};
